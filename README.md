@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **tripambiswas007@gmail.com,@tripam9**
+- 📫 How to reach me **tripambiswas007@gmail.com**,**@tripam9**
 
 - ⚡ Fun fact **I'm quite passionate about coding and love all about it....**
 
