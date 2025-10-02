@@ -1,31 +1,61 @@
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Tripam</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">🚀 A Passionate Software Developer from India</h3>
 
+---
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripam007" alt="tripam007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **SQL**
-
-- 📫 How to reach me **tripambiswas007@gmail.com**,**@tripam9**
-
-- ⚡ Fun fact **I'm quite passionate about coding and love all about it....**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tripam007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tripam007" height="30" width="40" /></a>
-<a href="https://instagram.com/@tripam9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tripam9" height="30" width="40" /></a>
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tripam007&label=Profile%20Views&color=0e75b6&style=flat" alt="tripam007" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripam007&theme=algolia&margin-w=10&margin-h=10" alt="trophies"/></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripam007&show_icons=true&locale=en&layout=compact" alt="tripam007" /></p>
+### 🧑‍💻 About Me
+- 🌱 Currently learning **SQL & Web Development**
+- 📫 Reach me at **tripambiswas007@gmail.com** | **@tripam9**
+- ⚡ Fun fact: *I enjoy solving problems & building cool projects with code!*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripam007&show_icons=true&locale=en" alt="tripam007" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripam007&" alt="tripam007" /></p>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/tripam007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://instagram.com/tripam9" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <a href="mailto:tripambiswas007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+</p>
+
+---
+
+### ⚒️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,flask,git,mysql,pandas" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripam007&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tripam007&theme=tokyonight" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tripam007&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300">
+</p>
+
+---
 
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
