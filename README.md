@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tripam</h1>
 <h3 align="center">🚀 A Passionate Software Developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Problem+Solver;Passionate+about+AI+and+Web+Apps;Always+learning+new+tech+🚀" alt="Typing Animation" />
+</p>
+
+
 ---
 
 <!-- Badges -->
