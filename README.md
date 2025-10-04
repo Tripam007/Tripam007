@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/tripam007](https://www.linkedin.com/in/tripam-biswas-09b4b330a/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://linkedin.com/in/tripam-biswas-09b4b330a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
   <a href="https://instagram.com/tripam9" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
   <a href="mailto:tripambiswas007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
