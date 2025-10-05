@@ -45,8 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tripam007&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tripam007&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=tripam007&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tripam007&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
