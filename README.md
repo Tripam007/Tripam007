@@ -11,9 +11,13 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tripam007&label=Profile%20Views&color=0e75b6&style=flat" alt="tripam007" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripam007&theme=algolia&margin-w=10&margin-h=10" alt="trophies"/></a> 
+  <img src="https://komarev.com/ghpvc/?username=tripam007&label=Profile%20Views&color=0e75b6&style=flat" alt="tripam007" />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tripam007&theme=algolia&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
 </p>
+
 
 ---
 
